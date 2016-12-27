@@ -1,0 +1,6 @@
+debug: true
+mongodb:
+  dsn: 'mongodb://localhost:27017'
+  db: 'sample_db'
+  username: ''
+  password: ''

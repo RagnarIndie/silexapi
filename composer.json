@@ -1,0 +1,18 @@
+{
+  "require": {
+    "silex/silex": "~2.0",
+    "pimple/pimple": "~3.0",
+    "monolog/monolog": "*",
+    "doctrine/orm": "*",
+    "alcaeus/mongo-php-adapter": "*",
+    "doctrine/mongodb": "*",
+    "doctrine/mongodb-odm": "dev-master",
+    "saxulum/saxulum-doctrine-mongodb-provider": "*",
+    "symfony/yaml": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Sample": "src/"
+    }
+  }
+}
